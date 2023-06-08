@@ -1,3 +1,0 @@
-D:/BaiduSyncdisk/CCpp/parall/thread_pool/build/CMakeFiles/thread_pool_test.dir
-D:/BaiduSyncdisk/CCpp/parall/thread_pool/build/CMakeFiles/ALL_BUILD.dir
-D:/BaiduSyncdisk/CCpp/parall/thread_pool/build/CMakeFiles/ZERO_CHECK.dir
